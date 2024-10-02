@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Jokes",
+    "version": "0.0.1",
+    "description": "Scraping product details from Myntra",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "logo.jpeg"
+    },
+    "icons": {
+      "128": "logo.jpeg"
+    },
+    "permissions": ["activeTab"]
+  }
